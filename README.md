@@ -1,6 +1,6 @@
 # Reconocimiento de objetos por histograma
 
-Este programa se ha creado inicialmente para comprobar si dos cartones de dos imágenes diferentes resultan ser el mismo cartón, aunque puede emplearse con otras clases de objetos:
+Este programa se ha creado empleando las librerías OpenCV. Inicialmente se utiliza para comprobar si dos cartones de dos imágenes diferentes resultan ser el mismo cartón, aunque puede emplearse con otras clases de objetos:
 
 ![compare](https://user-images.githubusercontent.com/44776831/48085016-791f4980-e1f9-11e8-9202-5aef3d725e38.png)
 
